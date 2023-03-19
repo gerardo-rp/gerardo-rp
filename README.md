@@ -1,16 +1,14 @@
-### Hi there 👋
+## Welcome to my profile
 
 <!--
-**gerardo-rp/gerardo-rp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I am Gerardo Romero, a software developer specialized in Python. My goal is to create simple and efficient code.
+
+_“The test of the machine is the satisfaction it gives you. There isn't any other test. If the machine produces tranquility it's right. If it disturbs you it's wrong until either the machine or your mind is changed.”_
+— Robert M. Pirsig
+
+[![My skills](https://skillicons.dev/icons?i=py,linux,bash,md,github,neovim)](https://skillicons.dev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardo-rp&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
