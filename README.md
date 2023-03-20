@@ -8,6 +8,8 @@ I am Gerardo Romero, a software developer specialized in Python. My goal is to c
 
 _“The test of the machine is the satisfaction it gives you. There isn't any other test. If the machine produces tranquility it's right. If it disturbs you it's wrong until either the machine or your mind is changed.”_ — Robert M. Pirsig
 
+<div align=center>
+
 ---
 
 ### My skills
@@ -17,3 +19,5 @@ _“The test of the machine is the satisfaction it gives you. There isn't any ot
 
 ### My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardo-rp&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
