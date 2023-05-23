@@ -4,7 +4,7 @@
 My personal profile.
 -->
 
-I am Gerardo Romero, a software developer specialized in Python. My goal is to create simple and efficient code.
+I am Gerardo Romero, a software developer specialized in Python. My goal is to create simple and efficient software.
 
 _“The test of the machine is the satisfaction it gives you. There isn't any other test. If the machine produces tranquility it's right. If it disturbs you it's wrong until either the machine or your mind is changed.”_ — Robert M. Pirsig
 
